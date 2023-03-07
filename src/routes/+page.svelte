@@ -62,7 +62,7 @@
 	}
 </script>
 
-<div class="flex flex-col pt-4 w-full px-8 items-center gap-2">
+<div class="flex flex-col pt-5 w-full px-0 items-center gap-2">
 	<div>
 		<h1 class="text-2xl font-bold w-full text-center">What Would Jesus Say</h1>
 		<p class="text-sm italic">Powered by Jesus</p>

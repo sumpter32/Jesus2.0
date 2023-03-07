@@ -67,7 +67,7 @@
 		<h1 class="text-2xl font-bold w-full text-center">What Would Jesus Say</h1>
 		<p class="text-sm italic">Powered by Jesus</p>
 	</div>
-	<div class="h-[500px] bg-gray-900 rounded-md p-4 overflow-y-auto flex flex-col gap-4 mx-auto">
+	<div class="h-[500px] w-full bg-gray-900 rounded-md p-4 overflow-y-auto flex flex-col gap-4">
 		<div class="flex flex-col gap-2">
 			<ChatMessage type="assistant" message="Hello, My Child ask me anything!" />
 			{#each chatMessages as message}
